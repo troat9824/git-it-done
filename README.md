@@ -9,9 +9,9 @@ A Github repository search, where you can find open source repositories that hav
 https://troat9824.github.io/git-it-done/
 
 ## Made With
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Contributors 
 Made by Taylor Vaughn
